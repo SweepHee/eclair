@@ -1,0 +1,19 @@
+{
+    "name": "pronist/eclair",
+    "description": "Eclair is a Simple PHP micro framework",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Sweep",
+            "email": "jeonsh1991@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Eclair\\": "src/"
+        }
+    },
+    "require": {}
+}
